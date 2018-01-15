@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Debug/ToyBlockchain.pdb
+/Debug/ToyBlockchain.ilk
+/Debug/ToyBlockchain.exe
+/ToyBlockchain/Debug
+/.vs/ToyBlockchain/v15/ipch
+/.vs/ToyBlockchain/v15/.suo
+/.vs/ToyBlockchain/v15
